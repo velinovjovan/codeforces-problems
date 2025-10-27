@@ -1,4 +1,4 @@
-# Codeforces Solutions 🤔
+# Codeforces Problems 🤔
 
 A collection of my solutions to various Codeforces programming problems. Each solution is implemented in C++ and organized for clarity and easy reference.
 
@@ -29,3 +29,4 @@ Check out my Codeforces profile here:
 ---
 
 Feel free to star ⭐ the repository if you find it useful or inspiring!
+
