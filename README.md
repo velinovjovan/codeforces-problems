@@ -19,8 +19,7 @@ This repository serves as a record of my progress and practice on Codeforces. Pr
 * Greedy algorithms
 * Dynamic programming
 * Graph theory
-* Binary search
-* Number theory
+* Binary search
 
 ## 🏆 Profile
 
