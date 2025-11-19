@@ -8,7 +8,7 @@ This repository serves as a record of my progress and practice on Codeforces. Pr
 
 ## 📈 Goals
 
-* Solve at least 500 problems by the end of the year.
+* Solve at least 800 problems by the end of the year.
 * Solve a total of 2000 problems.
 * Practice regularly with a focus on Div 2 C/D level problems.
 * Strengthen mastery of data structures and algorithms.
@@ -30,6 +30,7 @@ Check out my Codeforces profile here:
 ---
 
 Feel free to star ⭐ the repository if you find it useful or inspiring!
+
 
 
 
