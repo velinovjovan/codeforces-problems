@@ -2,9 +2,13 @@
 
 A collection of my solutions to various Codeforces programming problems. Each solution is implemented in C++ and organized for clarity and easy reference.
 
+---
+
 ## 🧠 About
 
 This repository serves as a record of my progress and practice on Codeforces. Problems are solved across different difficulty levels, focusing on improving problem-solving skills, algorithmic thinking, and speed.
+
+---
 
 ## 📈 Goals
 
@@ -13,14 +17,7 @@ This repository serves as a record of my progress and practice on Codeforces. Pr
 * Practice regularly with a focus on Div 2 C/D level problems.
 * Strengthen mastery of data structures and algorithms.
 
-## 🧩 Topics 
-
-* Implementation
-* Greedy algorithms
-* Dynamic programming
-* Graph theory
-* Binary search
-
+---
 
 ## 🏆 Profile
 
@@ -30,7 +27,3 @@ Check out my Codeforces profile here:
 ---
 
 Feel free to star ⭐ the repository if you find it useful or inspiring!
-
-
-
-
