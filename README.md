@@ -4,15 +4,8 @@ A collection of my solutions to various Codeforces programming problems. Each so
 
 ---
 
-## 🧠 About
-
-This repository serves as a record of my progress and practice on Codeforces. Problems are solved across different difficulty levels, focusing on improving problem-solving skills, algorithmic thinking, and speed.
-
----
-
 ## 📈 Goals
 
-* Solve at least 800 problems by the end of the year.
 * Solve a total of 2000 problems.
 * Practice regularly with a focus on Div 2 C/D level problems.
 * Strengthen mastery of data structures and algorithms.
@@ -27,3 +20,4 @@ Check out my Codeforces profile here:
 ---
 
 Feel free to star ⭐ the repository if you find it useful or inspiring!
+
