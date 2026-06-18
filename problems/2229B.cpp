@@ -36,8 +36,10 @@ int main(){
             best_min = max(best_min, mini);
         }
 
-        cout << sum + best_min << "\n";
+        cout << sum + best_min << endl;
     }
 
+
     return 0;
+    
 }
